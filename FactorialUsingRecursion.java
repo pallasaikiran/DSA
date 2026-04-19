@@ -1,4 +1,3 @@
-import java.util.stream.IntStream;
 
 public class FactorialUsingRecursion {
     public static long factorial(int n) {
